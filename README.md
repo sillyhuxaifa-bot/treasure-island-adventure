@@ -1,8 +1,4 @@
-# treasure-island-adventure
-A simple Python text-based adventure game built to practice conditional statements and user input.
-
-
-# Treasure Island Adventure
+# 🏝️ Treasure Island Adventure
 
 A simple text-based adventure game built with Python. The player makes a series of choices to navigate through the adventure in search of hidden treasure. Each decision determines whether the player continues the journey or reaches a game over.
 
@@ -10,15 +6,15 @@ A simple text-based adventure game built with Python. The player makes a series 
 
 - Interactive text-based gameplay
 - Multiple decision paths
-- Conditional logic using "if", "elif", and "else"
+- Conditional logic using `if`, `elif`, and `else`
 - Different game endings based on user choices
 
 ## Concepts Practiced
 
 - Variables
 - User Input
-- String Methods (.lower())
-- Conditional Statements (if, elif, else)
+- String Methods (`.lower()`)
+- Conditional Statements (`if`, `elif`, `else`)
 - Nested Conditions
 - Program Flow Control
 
